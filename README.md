@@ -7,7 +7,18 @@
 
 ---
 Recap 2023-2026
-|Sub|10.1|10.2|10|11.1|11.2|11|12.1|12.2|12|
+
+High School Graduation Examination:
+|Sub|Score|
+|-|-|
+|Mathematics||
+|Literature||
+|Foreign Language - Chinese|HSK 3|
+|Informatics||
+
+
+
+|Sub|10.1|10.2|[10]|11.1|11.2|[11]|12.1|12.2|12|
 |-|-|-|-|-|-|-|-|-|-|
 |Mandatory - Mathematics|9.2|9.5|9.4|8.8|9.2|9.1|||||
 |Mandatory - Literature|7.6|7.2|7.3|7.4|7.1|7.2|||||
