@@ -1,6 +1,6 @@
 |Phần|	Nội dung|	Số câu|Tổng điểm|
 |-|-|-|-|
-|Phần 1: Sử dụng ngôn ngữ	|Tiếng Việt + Tiếng Anh	|60 câu (30 tiếng Việt, 30 tiếng Anh)	|300|
+|Phần 1: Sử dụng ngôn ngữ	|Tiếng Việt + Tiếng Anh	|60 câu (30 tiếng Việt, 30 tiếng Anh)	|600|
 |Phần 2: Toán học|	Toán|	30 câu	|300|
 |Phần 3: Tư duy khoa học|	Logic & phân tích số liệu + Suy luận khoa học	|30 câu (12 Logic, 18 Suy luận khoa học)|300|
 
