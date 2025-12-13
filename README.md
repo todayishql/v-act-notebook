@@ -7,17 +7,6 @@
 
 
 ---
-Recap 2023-2026
-
-High School Graduation Examination:
-|Sub|Score|Block|
-|-|-|-|
-|Mathematics||`D01`,`X26`
-|Literature||`D01`
-|English||`D01`,`X26`
-|Informatics||`X26`
-
-
 
 |Sub|10.1|10.2|[10- Final]|11.1|11.2|[11 - Final]|12.1|12.2|[12 - Final]|
 |-|-|-|-|-|-|-|-|-|-|
